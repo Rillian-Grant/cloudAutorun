@@ -1,5 +1,5 @@
 # cloudAutorun
-A program that allows you to upload another program to a folder in nextcloud/ftp/samba and have it run.
+A program that allows you to upload a program to a folder in nextcloud/ftp/samba and have it run.
 
 ## Installation
 
